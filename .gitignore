@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+my_model_weights20.h5
+
+*.h5
